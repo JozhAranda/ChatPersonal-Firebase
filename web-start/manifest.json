@@ -1,6 +1,6 @@
 {
-  "name": "Friendly Chat",
-  "short_name": "Friendly Chat",
+  "name": "Chat Personal",
+  "short_name": "Chat Personal",
   "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait"
